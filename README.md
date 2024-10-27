@@ -1,4 +1,4 @@
-- Howdy, You can call me Doot.
+- Hey, You can call me Doot.
 - I love to develop games! Mostly horror.
 - I'm learning to advance my skills in Godot, Which is the main engine I use.
 - If you are looking to collaborate, I'm sorry to say that I don't plan on developing any group projects.
